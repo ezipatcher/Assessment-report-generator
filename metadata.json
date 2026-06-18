@@ -1,0 +1,6 @@
+{
+  "name": "Assessment Report Generator",
+  "description": "Generate comprehensive and professional candidate performance reports, overall scores, performance summaries, and recruitment recommendations automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
